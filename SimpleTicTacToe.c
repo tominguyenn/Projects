@@ -1,4 +1,4 @@
-// Tic Tac Whoa game
+// Simple Tic Tac Toe game
 // Game ends when one player gets a 3-in-a-row, if there are no more moves possible, or if either player types "quit"
 #include <stdio.h>
 #include <string.h>
