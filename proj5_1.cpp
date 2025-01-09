@@ -1,5 +1,6 @@
 // This program gathers sales in each quarter for every division and then displays it in a table.
 // It also calculates and displays the total sales
+// The total number of divisions is set to 6
 #include <iostream>
 #include <iomanip>
 using namespace std;
